@@ -1,0 +1,12 @@
+Roll,Name,City,Batch,Maths,Science,English,CS,Fees,Feedback,Average,Grade,City_Avg,City_Type,Performance,Scholarship,Positive,Status
+101,Aarav,Mumbai,Morning,88,79,92,95,15000,great class,88.5,A,75.75,Metro,Star,Eligible,True,Paid
+102,Priya,Delhi,Evening,45,50,60,40,12000,needs improvement,48.75,F,54.4375,Metro,At-Risk,No,False,Pending
+103,Rohan,Mumbai,Morning,72,68,74,80,18000,very good,73.5,B,75.75,Metro,Good,No,True,Paid
+104,Sneha,Chennai,Evening,91,88,85,92,9000,excellent,89.0,A,88.41666666666667,Tier-2,Star,No,True,
+105,Kiran,Delhi,Morning,60,55,70,65,11000,average,62.5,C,54.4375,Metro,Average,No,False,
+106,Divya,Mumbai,Evening,55,49,65,58,14000,best faculty,56.75,C,75.75,Metro,Average,No,True,
+108,Farida,Delhi,Evening,38,42,55,35,10000,not satisfied,42.5,F,54.4375,Metro,At-Risk,No,False,
+109,Gaurav,Mumbai,Morning,77,73,80,82,16000,worth it,78.0,B,75.75,Metro,Good,No,False,
+110,Hema,Chennai,Evening,95,90,88,96,13000,brilliant,92.25,A,88.41666666666667,Tier-2,Star,Eligible,True,
+111,Isha,Delhi,Morning,62,58,70,66,12500,okay,64.0,C,54.4375,Metro,Average,No,False,
+112,Jai,Mumbai,Evening,80,76,84,88,17000,superb,82.0,B,75.75,Metro,Good,Eligible,True,

@@ -1,0 +1,12 @@
+{
+    "total_students": 11,
+    "top_student": "Hema",
+    "average_score": 70.7,
+    "at_risk_students": 2,
+    "grade_distribution": {
+        "A": 3,
+        "B": 3,
+        "C": 3,
+        "F": 2
+    }
+}
